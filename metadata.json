@@ -1,0 +1,6 @@
+{
+  "name": "Evaluador de Secuencias Didácticas ELSE",
+  "description": "Herramienta de evaluación pedagógica especializada en ELSE para analizar secuencias didácticas basadas en el Enfoque por Tareas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
